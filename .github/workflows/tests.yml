@@ -1,6 +1,5 @@
 name: tests
 
-
 # Triggers the workflow on push or pull request events
 on: [push, pull_request]
 # Limiting to particular branches might be helpful to conserve minutes.
